@@ -1,5 +1,3 @@
-# Quantium_Data_Analytics
-
 # Project Background
 
 Quantium is an Australian-based data science and artificial intelligence company founded in 2002, specializing in advanced analytics solutions that drive strategic decision-making for businesses.
